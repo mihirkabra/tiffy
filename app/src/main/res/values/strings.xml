@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tiffy</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="about_us_content">Tiffy is an sample application for an online tiffin service bussiness. Tiffy is a android project assigned to Kabra Mihir at Aptech Computer Education. This application can give an live experice of what a real tiffin service online application be like. Here you can simply register yourself and can try out ordering the available items. You can also keep the record of your earlier placed orders.</string>
+</resources>
